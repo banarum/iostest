@@ -14,6 +14,7 @@
 		DB155995212E7EFF00F14FA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB155993212E7EFF00F14FA7 /* LaunchScreen.storyboard */; };
 		DB1559A0212E7EFF00F14FA7 /* FilmazeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB15599F212E7EFF00F14FA7 /* FilmazeTests.swift */; };
 		DB1559AB212E7EFF00F14FA7 /* FilmazeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1559AA212E7EFF00F14FA7 /* FilmazeUITests.swift */; };
+		DBB1F9B72136947C009E9295 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBB1F9B62136947C009E9295 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DB1559A6212E7EFF00F14FA7 /* FilmazeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FilmazeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB1559AA212E7EFF00F14FA7 /* FilmazeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmazeUITests.swift; sourceTree = "<group>"; };
 		DB1559AC212E7EFF00F14FA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBB1F9B62136947C009E9295 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				DB15598C212E7EFD00F14FA7 /* ViewController.swift */,
 				DB15598E212E7EFD00F14FA7 /* Main.storyboard */,
 				DB155991212E7EFF00F14FA7 /* Assets.xcassets */,
+				DBB1F9B62136947C009E9295 /* Images.xcassets */,
 				DB155993212E7EFF00F14FA7 /* LaunchScreen.storyboard */,
 				DB155996212E7EFF00F14FA7 /* Info.plist */,
 			);
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB155995212E7EFF00F14FA7 /* LaunchScreen.storyboard in Resources */,
+				DBB1F9B72136947C009E9295 /* Images.xcassets in Resources */,
 				DB155992212E7EFF00F14FA7 /* Assets.xcassets in Resources */,
 				DB155990212E7EFD00F14FA7 /* Main.storyboard in Resources */,
 			);
